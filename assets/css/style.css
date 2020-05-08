@@ -105,8 +105,8 @@ form {
                 background-size: cover;
                 grid-column: 1 / 2;
                 grid-row: 1 / 2;
-                height: 150px;
-                width: 150px;
+                height: 114px;
+                width: 200px;
                 border: white 1px;
                 border-style: ridge;
                
@@ -117,29 +117,29 @@ form {
                 background-size: cover;
                 grid-column: 2 / 3;
                 grid-row: 1 / 2;
-                height: 150px;
-                width: 150px;
+                height: 114px;
+                width: 200px;
                 object-fit: contain;
                 border: white 1px;
                 border-style: ridge;
 }
         .three {
-                background-image: url("../images/palm.jpg");
+                background-image: url("../images/project3Pic.PNG");
                 background-size: cover;
                 grid-column: 3 / 3;
                 grid-row: 1 / 2;
-                height: 150px;
-                width: 150px;
+                height: 114px;
+                width: 200px;
                 border: white 1px;
                 border-style: ridge;
 }
         .four {
-                background-image: url("../images/github-square.svg");
+                background-image: url("../images/githubPic.PNG");
                 background-size: cover;
                 grid-column: 1 / 2;
                 grid-row: 2 / 2;
-                 height: 150px;
-                width: 150px;
+                height: 114px;
+                width: 200px;
                 padding-bottom: 5px;
                 border: white 1px;
                 border-style: ridge;
@@ -151,23 +151,23 @@ form {
                 object-fit: cover;
                 grid-column: 2 / 3;
                 grid-row: 2 / 2;
-                height: 150px;
-                width: 150px;
+                height: 114px;
+                width: 200px;
                 border: white 1px;
                 border-style: ridge;
 }
         .six {
-                background-image: url("../images/useful.jpg");
+                background-image: url("../images/resumePic.PNG");
                 background-size: cover;
                 object-fit: cover;
                 grid-column: 3 / 3;
                 grid-row: 2 / 2;
-                height: 150px;
-                width: 150px;
+                height: 114px;
+                width: 200px;
                 border: white 1px;
                 border-style: ridge;
 }
-        h4 {
+        h4, h5 {
                 background-color: lightblue;
                 opacity: 0.6;
                 top: 200px;
