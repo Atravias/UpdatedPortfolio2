@@ -177,7 +177,7 @@ form {
                 border-style: ridge;
 }
         .eight {
-                background-image: url("../images/resumePic.PNG");
+                background-image: url("../images/WorkoutTrackerPic.PNG");
                 background-size: cover;
                 object-fit: cover;
                 grid-column: 2 / 3;
