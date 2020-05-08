@@ -188,7 +188,7 @@ form {
                 border-style: ridge;
 }
         .nine {
-                background-image: url("../images/resumePic.PNG");
+                background-image: url("../images/EmployeeTracker.PNG");
                 background-size: cover;
                 object-fit: cover;
                 grid-column: 3 / 3;
